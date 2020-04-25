@@ -1,0 +1,6 @@
+t = input("body temperature")
+t = float(t)
+if t == 36.6:
+    print("you are ok")
+else:
+    print("coronavirus positive")
